@@ -1,2 +1,3 @@
-# local-weather
+# Local weather
+
 Application for local weather
